@@ -1,0 +1,11 @@
+C:\Users\Hi\Documents\GitHub\saddle\proj\proj\bin\Debug\proj.exe.config
+C:\Users\Hi\Documents\GitHub\saddle\proj\proj\bin\Debug\proj.exe
+C:\Users\Hi\Documents\GitHub\saddle\proj\proj\bin\Debug\proj.pdb
+C:\Users\Hi\Documents\GitHub\saddle\proj\proj\obj\Debug\proj.csproj.AssemblyReference.cache
+C:\Users\Hi\Documents\GitHub\saddle\proj\proj\obj\Debug\proj.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hi\Documents\GitHub\saddle\proj\proj\obj\Debug\proj.Form1.resources
+C:\Users\Hi\Documents\GitHub\saddle\proj\proj\obj\Debug\proj.Properties.Resources.resources
+C:\Users\Hi\Documents\GitHub\saddle\proj\proj\obj\Debug\proj.csproj.GenerateResource.cache
+C:\Users\Hi\Documents\GitHub\saddle\proj\proj\obj\Debug\proj.csproj.CoreCompileInputs.cache
+C:\Users\Hi\Documents\GitHub\saddle\proj\proj\obj\Debug\proj.exe
+C:\Users\Hi\Documents\GitHub\saddle\proj\proj\obj\Debug\proj.pdb
