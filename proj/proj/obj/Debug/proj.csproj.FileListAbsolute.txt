@@ -9,3 +9,4 @@ C:\Users\Hi\Documents\GitHub\saddle\proj\proj\obj\Debug\proj.csproj.GenerateReso
 C:\Users\Hi\Documents\GitHub\saddle\proj\proj\obj\Debug\proj.csproj.CoreCompileInputs.cache
 C:\Users\Hi\Documents\GitHub\saddle\proj\proj\obj\Debug\proj.exe
 C:\Users\Hi\Documents\GitHub\saddle\proj\proj\obj\Debug\proj.pdb
+C:\Users\Hi\Documents\GitHub\saddle\proj\proj\obj\Debug\proj.login.resources
