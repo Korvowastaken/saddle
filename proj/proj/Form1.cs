@@ -100,5 +100,10 @@ namespace proj
         {
 
         }
+
+        private void date_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }

@@ -66,7 +66,7 @@
             // 
             this.label2.AutoSize = true;
             this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label2.Location = new System.Drawing.Point(281, 24);
+            this.label2.Location = new System.Drawing.Point(373, 26);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(45, 20);
             this.label2.TabIndex = 2;
@@ -87,7 +87,7 @@
             // 
             this.objectname.AutoSize = true;
             this.objectname.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.objectname.Location = new System.Drawing.Point(374, 89);
+            this.objectname.Location = new System.Drawing.Point(476, 89);
             this.objectname.Name = "objectname";
             this.objectname.Size = new System.Drawing.Size(58, 20);
             this.objectname.TabIndex = 4;
@@ -127,21 +127,22 @@
             // 
             this.InvNum.Location = new System.Drawing.Point(81, 112);
             this.InvNum.Name = "InvNum";
-            this.InvNum.Size = new System.Drawing.Size(264, 22);
+            this.InvNum.Size = new System.Drawing.Size(358, 22);
             this.InvNum.TabIndex = 9;
             // 
             // date
             // 
-            this.date.Location = new System.Drawing.Point(281, 49);
+            this.date.Location = new System.Drawing.Point(377, 49);
             this.date.Name = "date";
             this.date.Size = new System.Drawing.Size(216, 22);
             this.date.TabIndex = 10;
+            this.date.TextChanged += new System.EventHandler(this.date_TextChanged);
             // 
             // objname
             // 
-            this.objname.Location = new System.Drawing.Point(378, 112);
+            this.objname.Location = new System.Drawing.Point(480, 112);
             this.objname.Name = "objname";
-            this.objname.Size = new System.Drawing.Size(194, 22);
+            this.objname.Size = new System.Drawing.Size(335, 22);
             this.objname.TabIndex = 11;
             this.objname.TextChanged += new System.EventHandler(this.textBox4_TextChanged);
             // 
@@ -163,7 +164,7 @@
             // 
             this.checkBox1.AutoSize = true;
             this.checkBox1.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.checkBox1.Location = new System.Drawing.Point(449, 188);
+            this.checkBox1.Location = new System.Drawing.Point(506, 188);
             this.checkBox1.Name = "checkBox1";
             this.checkBox1.Size = new System.Drawing.Size(109, 20);
             this.checkBox1.TabIndex = 14;
@@ -173,7 +174,7 @@
             // button1
             // 
             this.button1.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.8F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button1.Location = new System.Drawing.Point(108, 397);
+            this.button1.Location = new System.Drawing.Point(253, 397);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(117, 23);
             this.button1.TabIndex = 15;
@@ -184,7 +185,7 @@
             // button2
             // 
             this.button2.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.8F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button2.Location = new System.Drawing.Point(457, 397);
+            this.button2.Location = new System.Drawing.Point(535, 397);
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(101, 23);
             this.button2.TabIndex = 16;
@@ -199,7 +200,7 @@
             this.gridview.Name = "gridview";
             this.gridview.RowHeadersWidth = 51;
             this.gridview.RowTemplate.Height = 24;
-            this.gridview.Size = new System.Drawing.Size(637, 150);
+            this.gridview.Size = new System.Drawing.Size(860, 150);
             this.gridview.TabIndex = 19;
             // 
             // errorProvider1
@@ -210,7 +211,7 @@
             // 
             this.introname.AutoSize = true;
             this.introname.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.introname.Location = new System.Drawing.Point(727, 26);
+            this.introname.Location = new System.Drawing.Point(689, 26);
             this.introname.Name = "introname";
             this.introname.Size = new System.Drawing.Size(41, 20);
             this.introname.TabIndex = 20;
